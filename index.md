@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+<b>Политика конфиденциальности</b><br><br>
+Приложение <b>Audio Manager для ВК</b> не запрашивает и не хранит никакой личной информации. Тем не менее, оно имеет доступ к некоторой информации, доступной на вашей личной странице ВКонтакте. Например к вашему имени, возрасту и так далее. Приложение не передаёт эту информацию никаким третьим сторонам.
 
-You can use the [editor on GitHub](https://github.com/KeyDutch/instsave/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Также приложение имеет доступ к технической информации, такой как модель вашего устройства, версия операционной системы и так далее. Эта информация используется в обезличенном виде. Она нужна чтобы понять, как ведёт себя приложение на самых разных устройствах и как сделать его работу ещё лучше.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Так как приложение предоставляет доступ к сервису ВКонтакте, то вам нужно также ознакомиться с политикой конфиденциальности этого сервиса https://vk.com/privacy.
 
-### Markdown
+Приложение не хранит логин и пароль доступа к сервису ВКонтакте. Хранится только временный токен доступа, действие которого можно прекратить в любой момент.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KeyDutch/instsave/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Если у вас остались вопросы, свяжитесь со мной: <b>simankers@gmail.com</b>
